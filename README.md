@@ -1,2 +1,2 @@
 # My Portfolio 
-My Portfolio https://omarthamri.github.io/MyPortfolio/
+My Portfolio https://omarthamri.github.io/
